@@ -1,5 +1,5 @@
 {
-  "name": "vue-keshihua",
+  "name": "visualize-the-map",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
